@@ -1,0 +1,1052 @@
+RESULTADOS DE CONSULTAS VECTORIALES - QDRANT
+Modelo: paraphrase-multilingual-MiniLM-L12-v2 | Colección: proyecto_bdii
+
+======================================================================
+PREGUNTA: ¿Cuántos días de vacaciones corresponden por año trabajado?
+Tiempo de consulta en Qdrant: 42.20 ms
+======================================================================
+
+------------------------------------------------------------
+RESULTADO #1
+  id          : 402
+  score       : 0.7840
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO III VACACIONES
+    articulo  : 348
+    parte     : 1
+    pagina    : 101
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 142
+    id_chunk  : 403
+    contenido : Artículo 348. La época de las vacaciones debe ser señalada por el patrono, a más tardar dentro de los tres (3) meses siguientes a la fecha en que se tiene derecho a vacaciones, y ellas deben ser concedidas oficiosamente o a petición del trabajador, sin perjudicar el servicio y la efectividad del descanso. El patrono dará a conocer al trabajador, con diez (10) días de anticipación, la fecha en que le concederá las vacaciones. Las sumas que deba recibir el trabajador por concepto de vacaciones, le serán liquidadas y pagadas con tres (3) días de anticipación respecto de la fecha en que comience a disfrutar de ellas. Es prohibido compensar las vacaciones con dinero, pero la Secretaría de Trabajo y Seguridad Social puede autorizar que se paguen en dinero en casos especiales de perjuicio para la economía nacional o para la industria.
+
+------------------------------------------------------------
+RESULTADO #2
+  id          : 400
+  score       : 0.7781
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO III VACACIONES
+    articulo  : 346
+    parte     : 1
+    pagina    : 101
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 137
+    id_chunk  : 401
+    contenido : Artículo 346. El período de vacaciones remuneradas, a que tiene derecho todo trabajador después de cada año de trabajo continuo al servicio del mismo patrono, tendrá como duración mínima la que a continuación se expresa: a) Después de un (1) año de servicios continuos diez (10) días laborables, consecutivos; b) Después de dos (2) años de servicios continuos, doce (12) días laborables, consecutivos; c) Después de tres (3) años de servicios continuos, quince (15) días laborables, consecutivos; y, d) Después de cuatro (4) años de servicios continuos veinte (20) días laborables, consecutivos. No interrumpirán la continuidad del trabajo las licencias sin goce de salario, los descansos otorgados por el presente Código, sus reglamentos y leyes conexas, las enfermedades justificadas, la prórroga o renovación del contrato de trabajo, ni ninguna otra causa análoga que no termine con este.
+
+------------------------------------------------------------
+RESULTADO #3
+  id          : 201
+  score       : 0.7326
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO II TRABAJO DE LOS SERVIDORES DOMÉSTICOS
+    articulo  : 154
+    parte     : 1
+    pagina    : 58
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 93
+    id_chunk  : 202
+    contenido : Artículo 154. Al trabajo de los domésticos no se aplicarán las disposiciones sobre días de descanso, feriados o de fiesta nacional, pero gozarán de un descanso absoluto de diez (10) horas diarias, de las cuales por lo menos ocho (8) han de ser nocturnas y continuas, y dos (2) deben destinarse a las comidas. Durante los días feriados o de fiesta nacional que este Código indica deben forzosamente disfrutar de un descanso adicional de seis (6) horas y tendrán derecho a un (1) día de descanso remunerado por cada seis (6) de trabajo.
+
+------------------------------------------------------------
+RESULTADO #4
+  id          : 390
+  score       : 0.7014
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO II DESCANSOS GENERALES Y ESPECIALES
+    articulo  : 338
+    parte     : 1
+    pagina    : 98
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 139
+    id_chunk  : 391
+    contenido : Artículo 338. El trabajador gozará de un (1) día de descanso, preferentemente el domingo, por cada seis (6) de trabajo. No obstante, puede estipularse en favor de los trabajadores un período íntegro de veinticuatro (24) horas consecutivas de descanso, en día distinto, a cambio del descanso dominical, en los casos siguientes: 1. Por la evidente y urgente necesidad de realizar los trabajos cuya interrupción no sea posible; 2. Porque el carácter técnico o práctico de ellos requiera su continuidad; 3. Porque la interrupción de tales trabajos durante los domingos pueda ocasionar graves perjuicios al interés o a la salubridad pública; 4. Por tratarse de labores agrícolas o ganaderas; y, 5. En las labores del servicio doméstico y de chóferes particulares. Esta disposición es aplicable también cuando se pretenda habilitar como laborable un (1) día feriado o de fiesta nacional.
+
+------------------------------------------------------------
+RESULTADO #5
+  id          : 394
+  score       : 0.7000
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO II DESCANSOS GENERALES Y ESPECIALES
+    articulo  : 340
+    parte     : 1
+    pagina    : 99
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 58
+    id_chunk  : 395
+    contenido : Artículo 340. Si en virtud de convenio se trabajare durante los días de descanso o los días feriados o de fiesta nacional, se pagarán con el duplo de salario correspondiente a la jornada ordinaria en proporción al tiempo trabajado, sin perjuicio del derecho del trabajador a cualquier otro día de descanso en la semana conforme al artículo 338.
+
+------------------------------------------------------------
+RESULTADO #6
+  id          : 406
+  score       : 0.6948
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO III VACACIONES
+    articulo  : 352
+    parte     : 1
+    pagina    : 102
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 106
+    id_chunk  : 407
+    contenido : Artículo 352. Para calcular el salario que el trabajador debe recibir con motivo de sus vacaciones se tomará como base el promedio de las remuneraciones ordinarias devengadas por él durante los últimos seis (6) meses, o fracción de tiempo menor cuando el contrato no haya durado ese lapso, aumentado con el equivalente de su remuneración en especie, si la hubiere. Para obtener el promedio mencionado en el párrafo anterior se dividirá la suma total de las cantidades que el trabajador hubiere recibido en concepto de salario ordinario, entre el número de días por él trabajados durante el período que sirva de base para hacer el cálculo.
+
+------------------------------------------------------------
+RESULTADO #7
+  id          : 378
+  score       : 0.6860
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : TÍTULO IV JORNADAS, DESCANSOS Y SALARIOS CAPÍTULO I JORNADAS DE TRABAJO
+    articulo  : 326
+    parte     : 1
+    pagina    : 96
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 73
+    id_chunk  : 379
+    contenido : Artículo 326. La jornada ordinaria de trabajo puede ser continua o dividirse en dos o más períodos con intervalos de descanso que se adapten racionalmente a la naturaleza del trabajo de que se trate y a las necesidades del trabajador. Siempre que se pacte una jornada ordinaria continua, el trabajador tiene derecho a un descanso mínimo de treinta (30) minutos dentro de esa jornada, el que debe computarse como tiempo de trabajo efectivo.
+
+------------------------------------------------------------
+RESULTADO #8
+  id          : 258
+  score       : 0.6815
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO VI TRABAJO DE TRANSPORTE
+    articulo  : 213
+    parte     : 1
+    pagina    : 69
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 78
+    id_chunk  : 259
+    contenido : Artículo 213. Atendida la naturaleza del trabajo de transporte, su duración podrá exceder de las ocho (8) horas diarias, siempre que se establezcan turnos de acuerdo con las necesidades del servicio, incluyéndose como jornadas de trabajo los domingos, sábados por la tarde y días festivos. En ningún caso el total de horas trabajadas podrá exceder de cuarenta y cuatro (44) en la semana, si se tratare de trabajo diurno, ni de treinta y seis (36) en trabajo nocturno.
+
+------------------------------------------------------------
+RESULTADO #9
+  id          : 393
+  score       : 0.6808
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO II DESCANSOS GENERALES Y ESPECIALES
+    articulo  : 339
+    parte     : 2
+    pagina    : 98
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 103
+    id_chunk  : 394
+    contenido : Artículo 339 (continuación): El pago de los días feriados o de fiesta nacional, cuando no se trabajen, deben hacerse con el promedio diario de salarios ordinarios y extraordinarios que haya devengado el trabajador durante la semana inmediata anterior al día feriado o de fiesta nacional de que se trate. Si éste no hubiere trabajado durante la semana inmediata anterior se tomará como base el salario correspondiente a una jornada normal de trabajo. Es entendido que cuando el salario se estipule por quincena o por mes, incluye en forma implícita el pago de los días feriados o de fiesta nacional que no se trabajen.
+
+------------------------------------------------------------
+RESULTADO #10
+  id          : 332
+  score       : 0.6628
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO VIII TRABAJO FERROCARRILERO
+    articulo  : 282
+    parte     : 1
+    pagina    : 86
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 120
+    id_chunk  : 333
+    contenido : Artículo 282. El descanso podrá ser fijado en cualquier día de la semana, pero deberá ser fijo para cada trabajador y no podrá ser objeto de cambio, antes de tres (3) semanas de regir un (1) día determinado de descanso, salvo lo dispuesto en el artículo 283, del presente Código. Las empresas podrán aplicar el sistema de descanso rotativo, variable de semana a semana, cuando se otorgue un (1) día de descanso por cada cinco (5) trabajados. El descanso rotativo se cumplirá conforme a tablas que permitan a los trabajadores conocer sus días de descanso por lo menos para un período de tres (3) meses. La Dirección General de Trabajo suministrará las tablas para el descanso rotativo o sus modelos.
+
+======================================================================
+PREGUNTA: ¿Cuáles son las causas justas para despedir a un trabajador sin responsabilidad patronal?
+Tiempo de consulta en Qdrant: 14.00 ms
+======================================================================
+
+------------------------------------------------------------
+RESULTADO #1
+  id          : 154
+  score       : 0.7799
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO VIII TERMINACIÓN DEL CONTRATO DE TRABAJO
+    articulo  : 114
+    parte     : 1
+    pagina    : 45
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 129
+    id_chunk  : 155
+    contenido : Artículo 114. Son causas justas que facultan al trabajador para dar por terminado el contrato de trabajo, sin preaviso y sin responsabilidad de su parte, conservando el derecho a las prestaciones e indemnizaciones legales, como en el caso de despido injusto: a) Engaño del patrono al celebrar el contrato, respecto a las condiciones en que deba realizar sus labores el trabajador. Esta causa no podrá alegarse contra el patrono, después de treinta (30) días de prestar sus servicios el trabajador; b) Todo acto de violencia, malos tratamientos, o amenazas graves inferidas por el patrono contra el trabajador o los miembros de su familia, dentro o fuera del servicio, o inferidas dentro del servicio por los parientes, representantes o dependientes del patrono, con el consentimiento o la tolerancia de éste;
+
+------------------------------------------------------------
+RESULTADO #2
+  id          : 148
+  score       : 0.7583
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO VIII TERMINACIÓN DEL CONTRATO DE TRABAJO
+    articulo  : 112
+    parte     : 1
+    pagina    : 43
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 97
+    id_chunk  : 149
+    contenido : Artículo 112. Son causas justas que facultan al patrono para dar por terminado el contrato de trabajo, sin responsabilidad de su parte: a) El engaño del trabajador o del sindicato que lo hubiere propuesto mediante la presentación de recomendaciones o certificados falsos sobre su aptitud. Esta causa dejará de tener efecto después de treinta (30) días de prestar sus servicios el trabajador; b) Todo acto de violencia, injuria, malos tratamientos o grave indisciplina, en que incurra el trabajador durante sus labores, contra el patrono, los miembros de su familia, el personal directivo o los compañeros de trabajo;
+
+------------------------------------------------------------
+RESULTADO #3
+  id          : 230
+  score       : 0.7437
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO IV TRABAJO DE LOS APRENDICES
+    articulo  : 183
+    parte     : 1
+    pagina    : 65
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 69
+    id_chunk  : 231
+    contenido : Artículo 183. Además de las causas generales que facultan al patrono para dar por terminado el contrato de trabajo, puede éste despedir al aprendiz sin responsabilidad: 1. Por incumplimiento de las obligaciones que le señale el artículo 181; y, 2. Por incapacidad manifiesta del aprendiz durante el período de prueba para el oficio, arte o industria de que se trate o por notoria falta de seriedad en el aprendizaje.
+
+------------------------------------------------------------
+RESULTADO #4
+  id          : 1219
+  score       : 0.7382
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Decreto 943 (1980))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 11
+    parte     : 1
+    pagina    : 34
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 63
+    id_chunk  : 1220
+    contenido : [Ley del Salario Mínimo, anexo: Decreto 943 (1980)] Artículo 11. A partir de la fecha de entrada en vigencia de esta Ley, ningún trabajador contratado por tiempo indefinido que estuviere devengando un salario menor al establecido en los artículos anteriores, podrá ser despedido, trasladado o desmejorado en sus condiciones de trabajo sin justa causa, calificada previamente por la autoridad judicial mediante juicio sumario.
+
+------------------------------------------------------------
+RESULTADO #5
+  id          : 168
+  score       : 0.7324
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO IX PREAVISO
+    articulo  : 121
+    parte     : 1
+    pagina    : 49
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 107
+    id_chunk  : 169
+    contenido : Artículo 121. Cuando un trabajador ha sido contratado por tiempo fijo en los casos permitidos por la ley, o por el tiempo necesario para la ejecución de determinada obra y fuere despedido sin causa justificada, o se separare de su trabajo por cualquiera de las causas enumeradas en el artículo 114, será indemnizado por el patrono con el importe del salario que habría devengado en el tiempo que falte para que se venza el plazo o para que finalice la obra; pero en ningún caso la cantidad podrá exceder de la que le correspondería según los términos del artículo anterior si hubiere sido contratado por tiempo indefinido.
+
+------------------------------------------------------------
+RESULTADO #6
+  id          : 513
+  score       : 0.7284
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : SECCIÓN III INDEMNIZACIONES Y CONMUTACIONES
+    articulo  : 443
+    parte     : 1
+    pagina    : 128
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 33
+    id_chunk  : 514
+    contenido : Artículo 443. El patrono, en los casos en que conforme al artículo 441 deba reponer a alguno de su primitiva ocupación, podrá despedir al trabajador sustituto, sin que éste tenga derecho a indemnización.
+
+------------------------------------------------------------
+RESULTADO #7
+  id          : 169
+  score       : 0.7238
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO IX PREAVISO
+    articulo  : 122
+    parte     : 1
+    pagina    : 50
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 83
+    id_chunk  : 170
+    contenido : Artículo 122. Si el trabajador se separa sin causa justificada, o fuere despedido por cualquiera de las causas enumeradas en el artículo 112, deberá pagar al patrono el importe de los daños y perjuicios que le cause, según estimación que prudencialmente haga el Juez de Trabajo respectivo, quién fijará además, atendiendo a las circunstancias, la forma en la que el trabajador deberá hacer el pago, pero el monto de los daños y perjuicios no podrá exceder al salario correspondiente a treinta (30) días.
+
+------------------------------------------------------------
+RESULTADO #8
+  id          : 1201
+  score       : 0.7096
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Decreto 717 (1978))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 2
+    parte     : 7
+    pagina    : 29
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 76
+    id_chunk  : 1202
+    contenido : [Ley del Salario Mínimo, anexo: Decreto 717 (1978)] A partir de la fecha de entrada en vigencia de esta Ley, ningún trabajador contratado por tiempo indefinido que estuviere devengando un salario menor al establecido en los artículos anteriores, podrá ser despedido, trasladado o desmejorado en sus condiciones de trabajo sin justa causa calificada previamente por la autoridad respectiva. Lo dispuesto en el párrafo anterior perderá su eficacia el día treinta y uno de diciembre de 1979".
+
+------------------------------------------------------------
+RESULTADO #9
+  id          : 152
+  score       : 0.6914
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO VIII TERMINACIÓN DEL CONTRATO DE TRABAJO
+    articulo  : 113
+    parte     : 1
+    pagina    : 44
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 148
+    id_chunk  : 153
+    contenido : Artículo 113. La terminación del contrato conforme a una de las causas enumeradas en el artículo anterior, surte efecto desde que el patrono la comunica al trabajador, pero éste goza del derecho de emplazarlo ante los Tribunales de Trabajo, antes de que transcurra el término de prescripción, con el objeto de que le pruebe la justa causa en que se fundó el despido. Si el patrono no prueba dicha causa debe pagar al trabajador las indemnizaciones que según este Código le puedan corresponder y, a título de daños y perjuicios, los salarios que éste habría percibido desde la terminación del contrato hasta la fecha en que con sujeción a las normas procésales del presente Código debe quedar firme la sentencia condenatoria respectiva. El trabajador puede demandar a su patrono el cumplimiento del contrato para que se le reponga en su trabajo, por lo menos en igualdad de condiciones.
+
+------------------------------------------------------------
+RESULTADO #10
+  id          : 474
+  score       : 0.6912
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : SECCIÓN II RESPONSABILIDAD EN MATERIA DE RIESGOS PROFESIONALES
+    articulo  : 413
+    parte     : 1
+    pagina    : 118
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 114
+    id_chunk  : 475
+    contenido : Artículo 413. El patrono es responsable de la reparación de los riesgos profesionales ocurridos a sus trabajadores, en los términos de los artículos 403 y 404. Se presume accidente de trabajo las lesiones corporales que el trabajador sufra mientras esté prestando sus servicios, y enfermedad profesional, la enfermedad que sobrevenga a un trabajador como consecuencia de la clase de trabajo que desempeña. La imprudencia profesional, o sea la omisión del trabajador de tomar precaución, debido a la confianza que tenga en su pericia o habilidad para ejercer su oficio, no exime de responsabilidad, salvo que dicha imprudencia adquiera el carácter de incumplimiento manifiesto de las instrucciones del patrono o de los reglamentos de trabajo.
+
+======================================================================
+PREGUNTA: ¿Cómo se calcula el salario mínimo y quién lo regula?
+Tiempo de consulta en Qdrant: 22.44 ms
+======================================================================
+
+------------------------------------------------------------
+RESULTADO #1
+  id          : 439
+  score       : 0.7761
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO V SALARIO MÍNIMO
+    articulo  : 382
+    parte     : 1
+    pagina    : 110
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 114
+    id_chunk  : 440
+    contenido : Artículo 382. Para fijar el salario mínimo deben tomarse en cuenta las modalidades de cada trabajo, las particulares condiciones de cada región y de cada labor, el costo de la vida, la aptitud relativa de los trabajadores y los sistemas de remuneración de las empresas. Para los trabajadores del campo el salario mínimo debe fijarse tomando en cuenta las facilidades que el patrono proporciona a sus trabajadores, en lo que se refiere a habitación, cultivos, combustibles y circunstancias análogas que disminuyen el costo de la vida. La circunstancia de que algunos patronos pueden estar obligados a suministrar a sus trabajadores alimentación y alojamiento, también debe tomarse en cuenta para la fijación del salario mínimo.
+
+------------------------------------------------------------
+RESULTADO #2
+  id          : 1051
+  score       : 0.7708
+  payload     :
+    documento : Ley del Salario Mínimo
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO VII NORMAS SOBRE SALARIOS MINIMOS
+    articulo  : 20
+    parte     : 2
+    pagina    : 5
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 114
+    id_chunk  : 1052
+    contenido : Artículo 20 (continuación): 28,271, de fecha 29 de mayo de 1997, el cual en su texto reza: Artículo 20. Los salarios mínimos se fijarán tomando en cuenta los propósitos y fines de esta Ley. Deberán ser los más altos que razonablemente los patronos puedan pagar, tomando en consideración las condiciones económicas del país y de competencia. Si los salarios pagados por los patronos fuesen por jornada de trabajo u otra unidad de tiempo, por unidad de obra o por cualquier otra modalidad de pago, la remuneración que se pague deberá ser suficiente para que un trabajador de mediano rendimiento obtenga, por lo menos, el salario mínimo fijado para la actividad de que se trate".
+
+------------------------------------------------------------
+RESULTADO #3
+  id          : 1130
+  score       : 0.7600
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Acuerdo 12 (Reglamento del Decreto-Ley 121, 1975))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 3
+    parte     : 1
+    pagina    : 18
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 54
+    id_chunk  : 1131
+    contenido : [Ley del Salario Mínimo, anexo: Acuerdo 12 (Reglamento del Decreto-Ley 121, 1975)] Artículo 3.- Para los efectos del Decreto, salario mínimo es la cantidad que un patrono puede pagar a un trabajador por los servicios que éste le preste en virtud de un contrato o relación de trabajo en una jornada ordinaria de trabajo.
+
+------------------------------------------------------------
+RESULTADO #4
+  id          : 1251
+  score       : 0.7580
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Decreto 28-91 (1991))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 1
+    parte     : 2
+    pagina    : 44
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 124
+    id_chunk  : 1252
+    contenido : [Ley del Salario Mínimo, anexo: Decreto 28-91 (1991); columnas de la tabla: Zona I, Zona II, Zona III] Para los efectos de este Decreto, se estratifican los salarios mínimos de los trabajadores por actividad económica, en la forma siguiente: De uno (1) a cinco (5) trabajadores; de seis (6) a quince (15) trabajadores y de dieciséis (16) o más trabajadores. Los trabajadores devengarán, por cada jornada ordinaria de trabajo, en concepto de salario mínimo, las siguientes cantidades: TABLA DE SALARIOS MINIMOS POR JORNADA ORDINARIA RAMA DE ACTIVIDAD ZONAS ECONOMICA I II III Agricultura, Silvicultura, Caza y Pesca 1 - 5 Trabajadores 9.25 En todas las zonas 6 - 15 Trabajadores 10.85 En todas las zonas 16 y más Trabajadores 12.35 En todas las zonas
+
+------------------------------------------------------------
+RESULTADO #5
+  id          : 1162
+  score       : 0.7555
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Acuerdo 12 (Reglamento del Decreto-Ley 121, 1975))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO II CALCULO DEL SALARIO MINIMO SECCION PRIMERA SALARIO PACTADO POR UNIDAD DE TIEMPO
+    articulo  : 31
+    parte     : 1
+    pagina    : 22
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 57
+    id_chunk  : 1163
+    contenido : [Ley del Salario Mínimo, anexo: Acuerdo 12 (Reglamento del Decreto-Ley 121, 1975)] Artículo 31. El salario, en general, y el salario mínimo, en particular, deberá pagarse en moneda de curso legal. Los pagos en especie que se hagan a los trabajadores tendrán el carácter de una remuneración complementaria del salario ordinario o del mínimo, en su caso.
+
+------------------------------------------------------------
+RESULTADO #6
+  id          : 1050
+  score       : 0.7505
+  payload     :
+    documento : Ley del Salario Mínimo
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO VII NORMAS SOBRE SALARIOS MINIMOS
+    articulo  : 20
+    parte     : 1
+    pagina    : 5
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 150
+    id_chunk  : 1051
+    contenido : Artículo 20. Los salarios mínimos se fijarán tomando en cuenta los propósitos y fines de esta Ley. Deberán ser los más altos que razonablemente la industria pueda pagar dando consideración debida a las condiciones económicas y de competencia, y no han de dar a ninguna zona o región ventajas de competencia sobre otras. Si los salarios pagados por los patronos fuesen por jornada de trabajo u otra unidad de tiempo, por unidad de obra o por participación en las utilidades o por cualquier otra modalidad de pago, la remuneración que se pague deberá ser suficiente para que un trabajador de mediano rendimiento obtenga, por lo menos, el salario mínimo fijado para la industria que se trate. Reformado mediante Decreto No. 43-97 del 19 de mayo de 1997 y publicado en el Diario Oficial La Gaceta No. 28,271, de fecha 29 de mayo de 1997, el cual en su texto reza:
+
+------------------------------------------------------------
+RESULTADO #7
+  id          : 1212
+  score       : 0.7342
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Decreto 943 (1980))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 5
+    parte     : 1
+    pagina    : 33
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 104
+    id_chunk  : 1213
+    contenido : [Ley del Salario Mínimo, anexo: Decreto 943 (1980)] Artículo 5. Los salarios que se paguen por unidad de obra, por tarea, a destajo o a precio alzado, por participación en las utilidades, comisión, por trabajo a domicilio o mediante cualquier otra modalidad de pago no computada por unidad de tiempo, en ningún caso podrán ser inferiores a los mínimos establecidos en esta Ley. En tales casos el salario mínimo se determinará tomando como base el tiempo que emplearía en la ejecución de la obra o en la prestación del servicio contratado un trabajador de habilidad corriente o no especializado, en condiciones normales de trabajo.
+
+------------------------------------------------------------
+RESULTADO #8
+  id          : 1261
+  score       : 0.7338
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Decreto 25-92 (1992))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 1
+    parte     : 2
+    pagina    : 47
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 51
+    id_chunk  : 1262
+    contenido : [Ley del Salario Mínimo, anexo: Decreto 25-92 (1992)] Para los efectos de este Decreto, se estratifican los salarios mínimos de los trabajadores permanentes por Actividad Económica, en la forma siguiente: De uno (1) a cinco (5) trabajadores; de seis (6) a quince (15) trabajadores y de dieciséis (16) o más trabajadores.
+
+------------------------------------------------------------
+RESULTADO #9
+  id          : 1412
+  score       : 0.7329
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO III DE LAS COTIZACIONES Y SU FORMA DE PAGO
+    articulo  : 46
+    parte     : 1
+    pagina    : 7
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 30
+    id_chunk  : 1413
+    contenido : ARTICULO No. 46 Será de cuenta del patrono la cotización del trabajador, correspondiente a la diferencia entre lo que gane un trabajador y el salario establecido para la cotización mínima.
+
+------------------------------------------------------------
+RESULTADO #10
+  id          : 1111
+  score       : 0.7196
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Decreto-Ley 121 (1974))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 9
+    parte     : 1
+    pagina    : 15
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 104
+    id_chunk  : 1112
+    contenido : [Ley del Salario Mínimo, anexo: Decreto-Ley 121 (1974)] Artículo 9.- Los salarios que se paguen por unidad de obra, por tarea, a destajo o a precio alzado, por participación en las utilidades, comisión, por trabajo a domicilio o mediante cualquier otra modalidad de pago no computada por unidad de tiempo, en ningún caso podrán ser inferiores a los mínimos establecidos en esta Ley. En tales casos el salario mínimo se determinará tomando como base el tiempo que emplearía en la ejecución de la obra o en la prestación del servicio contratado un trabajador de habilidad corriente o no especializado, en condiciones normales de trabajo.
+
+======================================================================
+PREGUNTA: ¿Qué derechos cubre el seguro social en caso de enfermedad o maternidad?
+Tiempo de consulta en Qdrant: 16.65 ms
+======================================================================
+
+------------------------------------------------------------
+RESULTADO #1
+  id          : 1366
+  score       : 0.7540
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 2
+    parte     : 1
+    pagina    : 1
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 72
+    id_chunk  : 1367
+    contenido : ARTICULO No. 2 El presente Reglamento regula la aplicación del Seguro Social para la cobertura de los siguientes riesgos: enfermedad y accidente común, maternidad, accidente de trabajo y enfermedad profesional, invalidez, vejez y muerte. El riesgo de cesantía involuntaria a que se refiere el Artículo 2o. de la Ley, quedará sujeto a la emisión de los reglamentos pertinentes, como asimismo, todas las demás contingencias que afecten la capacidad de trabajo y consumir.
+
+------------------------------------------------------------
+RESULTADO #2
+  id          : 1426
+  score       : 0.7194
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : SECCIÓN II MATERNIDAD Y AYUDA DE LACTANCIA A) MATERNIDAD
+    articulo  : 59
+    parte     : 1
+    pagina    : 9
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 47
+    id_chunk  : 1427
+    contenido : ARTICULO No. 59 Tienen derecho a la atención médica en caso de maternidad, la asegurada y la esposa del asegurado o, en su defecto, su compañera, a condición que ésta cumpla con lo prescrito en el Artículo 151. El parto será atendido en los hospitales del Instituto.
+
+------------------------------------------------------------
+RESULTADO #3
+  id          : 1572
+  score       : 0.7072
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO V DISPOSICIONES DIVERSAS
+    articulo  : 198
+    parte     : 1
+    pagina    : 29
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 99
+    id_chunk  : 1573
+    contenido : ARTICULO No. 198 Los patronos sujetos al régimen del Seguro Social están exentos de las prestaciones que les impongan las leyes y contratos de trabajo en favor de los trabajadores, en la medida en que estas prestaciones sean concedidas por el Instituto, salvo las excepciones establecidas en la Ley del Seguro Social, en este Reglamento y en otras disposiciones legales que se dicten. En consecuencia, las prestaciones a que tenga derecho el asegurado, por virtud de contratos colectivos de trabajo o de otras leyes, en exceso de las que le concede este Reglamento, serán de cuenta exclusiva del patrono.
+
+------------------------------------------------------------
+RESULTADO #4
+  id          : 1525
+  score       : 0.7046
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO VII DISPOSICIONES COMUNES A TODAS PRESTACIONES
+    articulo  : 154
+    parte     : 1
+    pagina    : 23
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 40
+    id_chunk  : 1526
+    contenido : ARTICULO No. 154 Se entenderá que una persona depende económicamente del asegurado, para los efectos de determinar su derecho a prestaciones en el Seguro Social, cuando el asegurado subvenga total o parcialmente los gastos de mantenimiento de la persona beneficiaria.
+
+------------------------------------------------------------
+RESULTADO #5
+  id          : 1368
+  score       : 0.6869
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO II DE LOS ASEGURADOS AL REGIMEN OBLIGATORIO
+    articulo  : 4
+    parte     : 1
+    pagina    : 1
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 59
+    id_chunk  : 1369
+    contenido : ARTICULO No. 4 Están sujetos al Seguro Social Obligatorio: 1) Los trabajadores particulares que presten sus servicios a una persona natural o jurídica, sea cual fuere el tipo de la relación laboral que los vincule y la forma de remuneración. 2) Los trabajadores públicos, los de las entidades autónomas y semi-autónomas y los de las entidades descentralizadas del Estado.
+
+------------------------------------------------------------
+RESULTADO #6
+  id          : 1483
+  score       : 0.6767
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : SECCIÓN II MUERTE A) AYUDA PARA FUNERAL
+    articulo  : 114
+    parte     : 1
+    pagina    : 17
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 71
+    id_chunk  : 1484
+    contenido : ARTICULO No. 114 Cuando el asegurado fallezca sin causar derecho a pensión de sobreviviente, la viuda y huérfanos o, en su defecto, los padres a que se refiere el Artículo 111 tendrán derecho a recibir, por partes iguales, en concepto de indemnización única, una suma igual a la cuantía de las cotizaciones personales que hubiere efectuado el asegurado, a la rama de invalidez, vejez y muerte, durante el período de afiliación.
+
+------------------------------------------------------------
+RESULTADO #7
+  id          : 1522
+  score       : 0.6671
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO VII DISPOSICIONES COMUNES A TODAS PRESTACIONES
+    articulo  : 151
+    parte     : 1
+    pagina    : 22
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 69
+    id_chunk  : 1523
+    contenido : ARTICULO No. 151 La compañera del asegurado, para todos los efectos del Seguro Social, se equipará a la esposa, a falta de ésta, siempre que haya sido inscrita como beneficiaria por lo menos 10 meses antes de la fecha de la prestación del servicio y dependa económicamente del asegurado. Para la inscripción de la compañera como beneficiaria se requiere que el asegurado y la compañera de él sean solteros.
+
+------------------------------------------------------------
+RESULTADO #8
+  id          : 1427
+  score       : 0.6586
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : SECCIÓN II MATERNIDAD Y AYUDA DE LACTANCIA A) MATERNIDAD
+    articulo  : 60
+    parte     : 1
+    pagina    : 9
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 97
+    id_chunk  : 1428
+    contenido : ARTICULO No. 60 Se otorgará a las personas mencionadas en el artículo anterior sin requisitos de cotización, la asistencia prenatal, natal, y post-natal. El derecho a la atención obstétrica comenzará a partir del día en que el correspondiente servicio médico del Instituto certifique el estado de embarazo. En caso de cesantía, se otorgarán las atenciones siempre que a la fecha en que se produzca, la asegurada o esposa o compañera del asegurado, se encuentre embarazada. El mismo derecho tendrá la esposa o compañera del asegurado que a la fecha de la muerte de éste se encuentre embarazada.
+
+------------------------------------------------------------
+RESULTADO #9
+  id          : 1435
+  score       : 0.6551
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO II DE LAS PRESTACIONES ECONOMICAS POR INCAPACIDAD TEMPORAL Y MATERNIDAD SEECCIÓN I ENFERMEDAD Y ACCIDENTE
+    articulo  : 68
+    parte     : 1
+    pagina    : 11
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 77
+    id_chunk  : 1436
+    contenido : ARTICULO No. 68 El asegurado incapacitado para trabajar a consecuencia de una enfermedad o accidente, tiene derecho a un subsidio, siempre que acredite no menos de treinta y cinco días de cotización en los tres meses calendario anteriores al de la incapacidad. Cuando ésta tenga su origen en un riesgo profesional no regirá dicho requisito de cotización. Los períodos de descanso por maternidad se tomarán en cuenta para el cómputo de los treinta y cinco (35) días.
+
+------------------------------------------------------------
+RESULTADO #10
+  id          : 1521
+  score       : 0.6544
+  payload     :
+    documento : Reglamento de Aplicación de la Ley del IHSS
+    categoria : seguridad social
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO VII DISPOSICIONES COMUNES A TODAS PRESTACIONES
+    articulo  : 150
+    parte     : 1
+    pagina    : 22
+    archivo   : reglamento de aplicacion de la ley del ihss.pdf
+    n_palabras: 35
+    id_chunk  : 1522
+    contenido : ARTICULO No. 150 Para que la esposa y los hijos menores de 5 años del asegurado gocen del derecho a la atención médica que les concede el presente Reglamento, deberán estar inscritos en el Instituto.
+
+======================================================================
+PREGUNTA: ¿Cuáles son las obligaciones de seguridad e higiene en el lugar de trabajo?
+Tiempo de consulta en Qdrant: 13.50 ms
+======================================================================
+
+------------------------------------------------------------
+RESULTADO #1
+  id          : 448
+  score       : 0.7975
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : TÍTULO V PROTECCIÓN A LOS TRABAJADORES DURANTE EL EJERCICIO DEL TRABAJO CAPÍTULO I HIGIENE Y SEGURIDAD EN EL TRABAJO
+    articulo  : 391
+    parte     : 1
+    pagina    : 113
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 83
+    id_chunk  : 449
+    contenido : Artículo 391. Todo patrono o empresa está obligado a suministrar y acondicionar locales y equipos de trabajo que garanticen la seguridad y la salud de los trabajadores. Para este efecto deberá proceder, dentro del plazo que determine la Inspección General del Trabajo y de acuerdo con el reglamento o reglamentos que dicte el Poder Ejecutivo, a introducir por su cuenta todas las medidas de higiene y de seguridad en los lugares de trabajo que sirvan para prevenir, reducir o eliminar los riesgos profesionales.
+
+------------------------------------------------------------
+RESULTADO #2
+  id          : 1630
+  score       : 0.7878
+  payload     :
+    documento : Reglamento General de Medidas Preventivas de Accidentes de Trabajo
+    categoria : seguridad ocupacional
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO VIII DE LAS OBLIGACIONES DE INFORMAR A LOS TRABAJADORES DE LOS RIESGOS PROFESIONALES
+    articulo  : 41
+    parte     : 1
+    pagina    : 11
+    archivo   : Reglamento-General-de-Medidas-Preventivas-de-Accidentes-de-Trabajo-FINAL-1.pdf
+    n_palabras: 43
+    id_chunk  : 1631
+    contenido : ARTÍCULO 41.- Los empleadores deberán dar cumplimiento a las obligaciones que establece el presente Capitulo a través del departamento de seguridad y salud en el trabajo de la empresa y dará conocimiento de sus gestiones, a las comisiones de higiene y seguridad ocupacional.
+
+------------------------------------------------------------
+RESULTADO #3
+  id          : 157
+  score       : 0.7710
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO VIII TERMINACIÓN DEL CONTRATO DE TRABAJO
+    articulo  : 114
+    parte     : 4
+    pagina    : 45
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 25
+    id_chunk  : 158
+    contenido : Artículo 114 (continuación): y, k) Incumplimiento del patrono, de las medidas de seguridad e higiene en el trabajo, prescritas en las leyes y reglamentos respectivos.
+
+------------------------------------------------------------
+RESULTADO #4
+  id          : 1635
+  score       : 0.7399
+  payload     :
+    documento : Reglamento General de Medidas Preventivas de Accidentes de Trabajo
+    categoria : seguridad ocupacional
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO IX DE LOS PROGRAMAS DE SEGURIDAD Y SALUD EN EL TRABAJO
+    articulo  : 46
+    parte     : 1
+    pagina    : 12
+    archivo   : Reglamento-General-de-Medidas-Preventivas-de-Accidentes-de-Trabajo-FINAL-1.pdf
+    n_palabras: 140
+    id_chunk  : 1636
+    contenido : ARTÍCULO 46.- Los programas de seguridad y salud en el trabajo deberán contemplar los siguientes componentes: 1. Actividades de higiene y seguridad ocupacional que estarán dirigidas a: a) Investigar los accidentes de trabajo y enfermedades profesionales ocurridos, determinar su origen y aplicar las medidas correctivas necesarias. b) Identificar, evaluar y controlar mediante estudios técnicos adecuados los factores de riesgos presentes en el ambiente laboral que puedan afectar a los trabajadores. c) Establecer y aplicar las medidas necesarias para la prevención de accidentes y enfermedades profesionales y verificar su efectividad mediante las evaluaciones periódicas del medio ambiente laboral. d) Mantener un registro adecuado de accidentes de trabajo ocurridos en la empresa. e) Disponer de un plan técnico y organizativo para la eliminación, corrección y control de los factores de riesgo detectados. 2. Actividades de medicina del trabajo que estarán dirigidas a:
+
+------------------------------------------------------------
+RESULTADO #5
+  id          : 1610
+  score       : 0.7302
+  payload     :
+    documento : Reglamento General de Medidas Preventivas de Accidentes de Trabajo
+    categoria : seguridad ocupacional
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO VI DE LAS COMISIONES MIXTAS DE HIGIENE Y SEGURIDAD
+    articulo  : 25
+    parte     : 1
+    pagina    : 7
+    archivo   : Reglamento-General-de-Medidas-Preventivas-de-Accidentes-de-Trabajo-FINAL-1.pdf
+    n_palabras: 134
+    id_chunk  : 1611
+    contenido : ARTÍCULO 25.- Las comisiones de higiene y seguridad tendrán las siguientes funciones: a) Vigilar por el estricto cumplimiento del presente Reglamento, los reglamentos especiales de higiene y seguridad de la empresa y demás normas relativas a la salud y seguridad de los trabajadores. b) Efectuar mensualmente visitas a los edificios, instalaciones y equipos del centro de trabajo, a fin de verificar las condiciones de seguridad y salud que prevalezcan en los mismos, debiendo efectuar recorridos como juzguen necesarios a los sitios de trabajo que por su peligrosidad lo requieran; para esta visita la comisión designará dos miembros de la misma por cada sector. c) Velar por el cumplimiento de los programas de salud y seguridad en el trabajo que se estén realizando en la empresa y proponer las reformas necesarias para su buen desarrollo.
+
+------------------------------------------------------------
+RESULTADO #6
+  id          : 1963
+  score       : 0.7277
+  payload     :
+    documento : Reglamento General de Medidas Preventivas de Accidentes de Trabajo
+    categoria : seguridad ocupacional
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO XX PROTECCIÓN PERSONAL SECCIÓN I DISPOSICIONES GENERALES
+    articulo  : 273
+    parte     : 1
+    pagina    : 100
+    archivo   : Reglamento-General-de-Medidas-Preventivas-de-Accidentes-de-Trabajo-FINAL-1.pdf
+    n_palabras: 86
+    id_chunk  : 1964
+    contenido : ARTÍCULO 273.- Son obligaciones del trabajador: a) Utilizar en su trabajo los medios, de protección personal conforme a las instrucciones dictadas por el empleador o su representante. b) Hacer uso correcto de estos medios no introduciendo en ellos ningún tipo de reformas o modificaciones. c) Mantener en perfecta conservación el equipo de protección personal que se haya suministrado. d) Comunicar a su inmediato superior las deficiencias o anomalías que observe en el estado o funcionamiento de los medios de protección o la carencia de los mismos.
+
+------------------------------------------------------------
+RESULTADO #7
+  id          : 754
+  score       : 0.7277
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO III DE LA INSCRIPCIÓN GENERAL DEL TRABAJO
+    articulo  : 617
+    parte     : 2
+    pagina    : 204
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 133
+    id_chunk  : 755
+    contenido : Artículo 617 (continuación): c) Pueden examinar las condiciones higiénicas de los lugares de trabajo y las de seguridad personales que éstos ofrezcan a los trabajadores; y muy particularmente, deben velar por que se acaten todas las disposiciones en vigor sobre prevención de accidentes de trabajo y enfermedades profesionales; d) Deben intervenir en todas las dificultades y conflictos de trabajo de que tengan noticia, sea que se presenten entre trabajadores y patronos, solo entre aquéllos o sólo entre éstos, a fin de prevenir su desarrollo o lograr su conciliación extrajudicial, si ya se han suscitado; e) Deben colaborar en todo momento con las autoridades judiciales de trabajo y también coordinar su acción con los maestros al servicio del Secretaría de Educación Pública, para lograr el desarrollo cultural y la educación social de los trabajadores;
+
+------------------------------------------------------------
+RESULTADO #8
+  id          : 2091
+  score       : 0.7264
+  payload     :
+    documento : Reglamento General de Medidas Preventivas de Accidentes de Trabajo
+    categoria : seguridad ocupacional
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO XXIV NORMAS GENERALES RELATIVAS A LOS AGENTES BIOLÓGICOS EN LOS AMBIENTES DE TRABAJO
+    articulo  : 369
+    parte     : 1
+    pagina    : 128
+    archivo   : Reglamento-General-de-Medidas-Preventivas-de-Accidentes-de-Trabajo-FINAL-1.pdf
+    n_palabras: 148
+    id_chunk  : 2092
+    contenido : ARTÍCULO 369.- Se vigilará por el cumplimiento de las siguientes medidas higiénicas: a) Prohibición de comer, beber o fumar en los lugares de trabajo. b) Prohibición de determinadas operaciones peligrosas tales como él pipeteo con la boca y el reencapsulamiento de agujas antes de su deshecho c) Especificación de procedimiento de obtención, manipulación y procesamiento de muestras de origen humano y animal. d) Los trabajadores dispondrán de vestuario con todas las facilidades necesarias para su higiene personal, incluyendo productos antisépticos. e) Los trabajadores dispondrán dentro de la jornada laboral de 10 minutos para su aseo personal antes de la comida y otros 10 minutos antes de abandonar el trabajo. f) Al salir de la zona de trabajo, el trabajador deberá quitarse las ropas de trabajo y los equipos de protección personal que puedan estar contaminados por agentes biológicos y deberá guardarlos en lugares que no contengan otras prendas.
+
+------------------------------------------------------------
+RESULTADO #9
+  id          : 1626
+  score       : 0.7251
+  payload     :
+    documento : Reglamento General de Medidas Preventivas de Accidentes de Trabajo
+    categoria : seguridad ocupacional
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO VIII DE LAS OBLIGACIONES DE INFORMAR A LOS TRABAJADORES DE LOS RIESGOS PROFESIONALES
+    articulo  : 37
+    parte     : 1
+    pagina    : 11
+    archivo   : Reglamento-General-de-Medidas-Preventivas-de-Accidentes-de-Trabajo-FINAL-1.pdf
+    n_palabras: 44
+    id_chunk  : 1627
+    contenido : ARTÍCULO 37.- Los empleadores por medio de las comisiones mixtas de higiene y seguridad de la empresa, informarán oportuna y convenientemente a todos los trabajadores acerca de los riesgos que entrañan sus labores, de las medidas preventivas y de los métodos correctos de trabajo.
+
+------------------------------------------------------------
+RESULTADO #10
+  id          : 1593
+  score       : 0.7151
+  payload     :
+    documento : Reglamento General de Medidas Preventivas de Accidentes de Trabajo
+    categoria : seguridad ocupacional
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO V OBLIGACIONES DE LOS TRABAJADORES Y SUS ORGANIZACIONES
+    articulo  : 10
+    parte     : 1
+    pagina    : 4
+    archivo   : Reglamento-General-de-Medidas-Preventivas-de-Accidentes-de-Trabajo-FINAL-1.pdf
+    n_palabras: 138
+    id_chunk  : 1594
+    contenido : ARTÍCULO 10.- Además de las contenidas en el Código del Trabajo y en las leyes de Seguridad Social y sus reglamentos, son obligaciones de los trabajadores: a) Cumplir las disposiciones de este Reglamento así como las normas, reglamentos, manuales e instructivos que se expidan para la prevención de los riesgos profesionales. b) Utilizar convenientemente las maquinas, equipos, herramientas, sustancias, y otros medios, haciendo uso adecuado del equipo de protección personal y dispositivos de seguridad y control de la maquinaria. En el caso de existir dudas en la forma de utilizarlos, deberá solicitar el auxilio de su superior inmediato para que le dé las instrucciones respectivas. c) Cooperar y participar en los programas de seguridad y salud en el trabajo implementados en su centro de trabajo, lo mismo que en las medidas encaminadas a la prevención de riesgos profesionales.
+
+======================================================================
+PREGUNTA: ¿Cuáles son los requisitos para ingresar al servicio civil y qué derechos tienen los empleados públicos?
+Tiempo de consulta en Qdrant: 25.70 ms
+======================================================================
+
+------------------------------------------------------------
+RESULTADO #1
+  id          : 1297
+  score       : 0.7596
+  payload     :
+    documento : Ley del Servicio Civil
+    categoria : empleo público
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO IV DE LOS REQUISITOS PARA INGRESAR AL SERVICIO CIVIL
+    articulo  : 11
+    parte     : 1
+    pagina    : 8
+    archivo   : LEY DEL SERVICIO CIVIL.pdf
+    n_palabras: 134
+    id_chunk  : 1298
+    contenido : Artículo 11. Para ingresar al Servicio Civil se requiere: 1. Ser hondureño por nacimiento, mayor de 18 años y estar en el goce de sus derechos civiles. No obstante quienes hayan cumplido 16 años podrán ingresar al Servicio Civil, previa autorización por escrito de sus representantes legales, a falta de éstos por las alcaldías municipales del término en que deba prestar sus servicios. 2. Tener comprobantes de estar al día en el pago de los impuestos o de estar exento de ellos; 3. Acreditar buena salud y buena conducta; 4. Llenar las condiciones especiales exigidas para el cargo; 5. Haber aprobado los exámenes de competencia o de oposición de antecedentes de conformidad con los requisitos establecidos en esta Ley; 6. Haber obtenido el nombramiento respectivo; y, 7. Haber pasado satisfactoriamente el período de prueba.
+
+------------------------------------------------------------
+RESULTADO #2
+  id          : 1295
+  score       : 0.7388
+  payload     :
+    documento : Ley del Servicio Civil
+    categoria : empleo público
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : SECCION II DEL CONSEJO DEL SERVICIO CIVIL
+    articulo  : 9
+    parte     : 1
+    pagina    : 6
+    archivo   : LEY DEL SERVICIO CIVIL.pdf
+    n_palabras: 129
+    id_chunk  : 1296
+    contenido : Artículo 9.- Para ser miembro del Consejo del Servicio Civil se requiere: a) Ser hondureño de nacimiento y mayor de 30 años; b) Ser profesional de la Ciencias Jurídicas y Sociales o en la Administración Pública y estar debidamente colegiado y solvente con el mismo; c) Ser de reconocida probidad; d) No desempeñar ningún otro cargo con el Estado, ni ser miembro directivo de algún partido político; y, e) No estar ligado entre sí, con el Presidente de la República o con los Secretarios de Estado y demás titulares de instituciones regidas por esta Ley, por parentesco dentro del cuarto grado de consanguinidad o segundo de afinidad. Los miembros del Consejo del Servicio Civil sólo podrán ser removidos de sus cargos por causas justas o por delitos debidamente comprobados.
+
+------------------------------------------------------------
+RESULTADO #3
+  id          : 1283
+  score       : 0.7360
+  payload     :
+    documento : Ley del Servicio Civil
+    categoria : empleo público
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO II DEL CAMPO DE APLICACION
+    articulo  : 2
+    parte     : 1
+    pagina    : 2
+    archivo   : LEY DEL SERVICIO CIVIL.pdf
+    n_palabras: 103
+    id_chunk  : 1284
+    contenido : Artículo 2. El Régimen del Servicio Civil comprenderá a los servidores públicos que laboran en las Secretarías de Estado cuyo ingreso al servicio se haya efectuado llenando las condiciones y requisitos que establezca esta Ley y su Reglamento. Las mismas disposiciones serán aplicables a los funcionarios y empleados de las Municipalidades y de la Junta Nacional de Bienestar Social. En cuanto a los servidores de los Poderes Legislativo y Judicial se regirán por sus respectivas leyes orgánicas, reglamentos y estatutos cuyas normas se orientarán a los principios de esta Ley, y en todo lo que no contraríen a la Constitución de la República.
+
+------------------------------------------------------------
+RESULTADO #4
+  id          : 1355
+  score       : 0.7216
+  payload     :
+    documento : Ley del Servicio Civil
+    categoria : empleo público
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO XVI DE LAS DISPOSICIONES GENERALES Y TRANSITORIAS DISPOSICIONES GENERALES
+    articulo  : 63
+    parte     : 1
+    pagina    : 23
+    archivo   : LEY DEL SERVICIO CIVIL.pdf
+    n_palabras: 70
+    id_chunk  : 1356
+    contenido : Artículo 63. Los servidores públicos sujetos al régimen del Servicio Civil, que a la fecha de entrar en vigencia esta ley se encuentren prestando servicios regulares, conservarán el derecho a permanecer en sus cargos, siempre y cuando la autoridad nominadora certifique a la Dirección General del Servicio Civil, que han rendido servicios eficientes por cinco años, que su conducta amerite tal derecho y se sometan a una prueba sin oposición.
+
+------------------------------------------------------------
+RESULTADO #5
+  id          : 1291
+  score       : 0.7007
+  payload     :
+    documento : Ley del Servicio Civil
+    categoria : empleo público
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO III DE LA ORGANIZACION DE LA DIRECCION GENERAL DEL SERVICIO CIVIL SECCION I
+    articulo  : 7
+    parte     : 1
+    pagina    : 5
+    archivo   : LEY DEL SERVICIO CIVIL.pdf
+    n_palabras: 129
+    id_chunk  : 1292
+    contenido : Artículo 7.- Son atribuciones del Director General del Servicio Civil: 1. Cumplir y hacer cumplir la presente Ley y sus Reglamentos; 2. Establecer y mantener al día el sistema de Clasificación de cargos; 3. Elaborar un plan de remuneraciones de la Administración Pública de común acuerdo con la Secretaría de Planificación, Coordinación y Presupuesto; 4. Preparar el manual de instructivos de cada cargo y el reglamento para proceder a la selección del personal; 6. Realizar los concursos y exámenes necesarios para proceder al reclutamiento y a la selección de los candidatos a ingresar al Servicio Civil; 7. Establecer y mantener al día un registro completo y centralizado de ingresos, reingresos, promociones, traslados, permutas, comisiones especiales de servicio y remociones del personal, lo mismo que de los candidatos seleccionados; 8.
+
+------------------------------------------------------------
+RESULTADO #6
+  id          : 625
+  score       : 0.6900
+  payload     :
+    documento : Código del Trabajo
+    categoria : contrato de trabajo
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPÍTULO VII RÉGIMEN INTERNO NOMBRE SOCIAL
+    articulo  : 509
+    parte     : 1
+    pagina    : 168
+    archivo   : codigo_de_trabajo.pdf
+    n_palabras: 27
+    id_chunk  : 626
+    contenido : Artículo 509. Las obligaciones civiles, autorizadas por los directores de un sindicato dentro de sus facultades obligan a éste. REQUISITOS PARA LOS MIEMBROS DE LA JUNTA DIRECTIVA
+
+------------------------------------------------------------
+RESULTADO #7
+  id          : 1324
+  score       : 0.6707
+  payload     :
+    documento : Ley del Servicio Civil
+    categoria : empleo público
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO X DE LAS OBLIGACIONES Y DERECHOS OBLIGACIONES
+    articulo  : 37
+    parte     : 1
+    pagina    : 14
+    archivo   : LEY DEL SERVICIO CIVIL.pdf
+    n_palabras: 150
+    id_chunk  : 1325
+    contenido : Artículo 37. Son obligaciones de los servidores públicos: a) Respetar y cumplir con lealtad la Constitución de la República, esta ley, sus reglamentos y las obligaciones inherentes a sus cargos; b) Desempeñar el cargo para el cual hayan sido nombrados, en forma regular y con la dedicación y eficiencia que requiera la naturaleza de éste; c) Acatar las órdenes e instrucciones que les impartan sus superiores jerárquicos y ejecutar las labores adicionales que se les encomienden, en interés del servicio público; d) Guardar la reserva y discreción necesarias sobre los asuntos relacionados con el trabajo y enaltecer la administración pública y la institución a la que sirven, mediante la observancia de buena conducta dentro y fuera del servicio; y, e) Guardar en las relaciones con el público la debida consideración y respeto, de modo que no se originen quejas justificadas por el mal servicio o por falta de atención. DERECHOS
+
+------------------------------------------------------------
+RESULTADO #8
+  id          : 1282
+  score       : 0.6573
+  payload     :
+    documento : Ley del Servicio Civil
+    categoria : empleo público
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 1
+    parte     : 1
+    pagina    : 1
+    archivo   : LEY DEL SERVICIO CIVIL.pdf
+    n_palabras: 129
+    id_chunk  : 1283
+    contenido : Artículo 1.- La presente Ley tiene por finalidad establecer un sistema racional de administración de personal en el Servicio público regulando las relaciones entre los servidores públicos y el Estado. En consecuencia, son objetivos de la misma, los siguientes: 1. Crear la carrera administrativa con base en el sistema de méritos; 2. Ofrecer iguales oportunidades para servir en la administración pública, a todos los hondureños, conforme a su idoneidad y aptitudes, independientemente de su sexo, raza, credo religioso, filiación política o clase social; 3. Capacitar, responsabilizar, proteger y dignificar a los servidores del Estado; 4. Incrementar la eficiencia de la función pública; y 5. Garantizar la estabilidad en sus cargos a los empleados públicos mediante el cumplimiento de las normas de esta Ley, sus reglamentos y demás leyes conexas.
+
+------------------------------------------------------------
+RESULTADO #9
+  id          : 1299
+  score       : 0.6532
+  payload     :
+    documento : Ley del Servicio Civil
+    categoria : empleo público
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : CAPITULO V DE LA CLASIFICACION DE CARGOS
+    articulo  : 13
+    parte     : 1
+    pagina    : 9
+    archivo   : LEY DEL SERVICIO CIVIL.pdf
+    n_palabras: 48
+    id_chunk  : 1300
+    contenido : Artículo 13. Por empleo o cargo se entenderá el conjunto de responsabilidades, obligaciones y derechos señalados o delegados por la ley o por quien tenga facultades para ello, que requiera la vinculación de una persona dentro del servicio público y que tenga una asignación en el presupuesto respectivo.
+
+------------------------------------------------------------
+RESULTADO #10
+  id          : 1209
+  score       : 0.6433
+  payload     :
+    documento : Ley del Salario Mínimo (anexo: Decreto 943 (1980))
+    categoria : salarios
+    fuente    : PENDIENTE: URL y fecha de consulta
+    seccion   : 
+    articulo  : 3
+    parte     : 1
+    pagina    : 33
+    archivo   : DIRECTOR-DE-SALARIOS-LEY-DEL-SALARIO-MINIMO.pdf
+    n_palabras: 74
+    id_chunk  : 1210
+    contenido : [Ley del Salario Mínimo, anexo: Decreto 943 (1980)] Artículo 3. Queda excluidos de las disposiciones de esta Ley los que desempeñan cargos de dirección o de confianza y los servidores domésticos. A los empleados públicos cuyo puesto haya sido creado por la Constitución, la Ley, Decreto Ejecutivo o acuerdo municipal y a los funcionarios y empleados de las instituciones descentralizadas del Estado se les fijará el salario mínimo de conformidad con las leyes correspondientes.
